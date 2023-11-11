@@ -17,6 +17,9 @@ module.exports = {
 					80: "#f7f7f7"
 				}
 			},
+			fontFamily: {
+				sans: ['-apple-system', 'BlinkMacSystemFont', '"Segoe UI"', "Roboto", '"Helvetica Neue"', 'Arial', '"Noto Sans"', "sans-serif", '"Apple Color Emoji"', '"Segoe UI Emoji"', '"Segoe UI Symbol"', '"Noto Color Emoji"'],
+			},
 			fontSize: {
 				"code-sm": "0.825rem",
 				"code-base": "0.925rem",
